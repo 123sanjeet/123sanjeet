@@ -1,0 +1,12 @@
+✅ private IP vs public IP : Commands 
+
+
+• curl ifconfig.me = Public IP
+
+•hostname -i = Local Private ip
+
+• Ip route = Gateway or network path check 
+
+
+
+
